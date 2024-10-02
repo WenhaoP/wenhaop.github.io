@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started the second year of my phd! 🥳🎉
+Started the second year of my PhD! 🥳🎉
