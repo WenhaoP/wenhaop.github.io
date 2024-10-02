@@ -2,17 +2,18 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://stat.uw.edu/'>Department of Statistics</a>, University of Washington.
+subtitle: <a href="https://stat.uw.edu/">Department of Statistics</a>, University of Washington.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Office A-316, Padelford Hall</p>
     <p>4110 E Stevens Way NE</p>
     <p>Seattle, WA 98195</p>
 
-news: false # includes a list of news items
+news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
