@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href="https://stat.uw.edu/">Department of Statistics</a>, University of Washington.
+subtitle: <a href="https://stat.uw.edu">Department of Statistics</a>, University of Washington.
 
 profile:
   align: right
