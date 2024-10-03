@@ -18,8 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a second-year PhD student in Statistics at the University of Washington. Before that, I completed my BA in [Computer Science](https://eecs.berkeley.edu/) and a BA in [Statistics](https://statistics.berkeley.edu/) at the [University of California, Berkeley](https://www.berkeley.edu/), graduating *Summa cum laude*. At Berkeley, I had the privilege of working with [Anil Aswani](https://aswani.ieor.berkeley.edu/), [Cyrus Dioun](https://business.ucdenver.edu/about/our-people/cyrus-dioun), and [Haichen Wang](https://hwang43.web.cern.ch/), focusing on the application of optimization and deep learning models in sociology, particle physics, and tensor completion.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests span statistical machine learning and optimization. Lately, I've been particularly drawn to online and interactive learning algorithms, like bandit algorithms. Additionally, I am working on incorporating network interference into [performative power](https://arxiv.org/abs/2405.19073) with [Tyler McCormick](https://thmccormick.github.io/) and [Zaid Harchaoui](https://sites.google.com/uw.edu/zaid-harchaoui/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+The photo on the right was taken by my father at [West Lake](https://en.wikipedia.org/wiki/West_Lake) (西湖) in Hangzhou, China.
