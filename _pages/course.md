@@ -23,7 +23,7 @@ nav_order: 6
 - DATA C8, [The Foundations of Data Science](https://www.data8.org/#:~:text=The%20course%20teaches%20critical%20concepts%20and%20skills%20in)
     - Basic data manipulation and visuliazation, basic probability and statitics, regression.
 - DATA C100, [Principles and Techniques of Data Science](https://ds100.org/#:~:text=Prepare%20students%20for%20advanced%20Berkeley%20courses%20in%20data-management)
-    - Data cleaning, SQL, Pandas, visualization, PCA, clustering, ordinary least sqaures
+    - Data cleaning, SQL, Pandas, visualization, PCA, clustering, ordinary least sqaures.
 - DATA C102, [Data, Inference, and Decisions](https://data102.org/#:~:text=Data%20102:%20Data,%20Inference,%20and%20Decisions.%20UC%20Berkeley.)
     - Multiple testing, online FDR control, Bayesian modeling, generalized linear models.
 - CS 182, [Designing, Visualizing and Understanding Deep Neural Networks](https://cs182sp22.github.io/#:~:text=CS%20182%20/%20282A%20Spring%202022%20%20CS)
