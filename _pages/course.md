@@ -11,7 +11,7 @@ nav_order: 6
 
 ##### UW
 
-- STAT 538, [Statistical Learning: Modeling, Prediction, and Computing](https://stat.uw.edu/academics/course-catalog/stat-538)
+- STAT 538, [Statistical Learning: Modeling, Prediction, and Computing](/assets/pdf/course/538_2024_syllabus.pdf)
     - Convex optimization, high-dimensional inference, sparsity, LASSO, integer programming.
 - CSE 541, [Interactive Learning](https://courses.cs.washington.edu/courses/cse541/24sp/)
     - Multi-armed bandits, adversial bandits, linear bandits, contextual bandits.
@@ -39,7 +39,7 @@ nav_order: 6
 
 ##### UC Berkeley
 
-- EECS 127, [Optimization Models in Engineering](https://www2.eecs.berkeley.edu/Courses/EECS127/#:~:text=EECS%20127.%20Optimization%20Models%20in%20Engineering.%20Catalog%20Description:)
+- EECS 127, [Optimization Models in Engineering](/assets/pdf/course/Optimization%20Models%20in%20Engineering%20(Spring%202022).pdf)
     - Matrix algebra, SVD, convex optimization, duality. 
 - IEOR 160, [Nonlinear and Discrete Optimization](https://lavaei.ieor.berkeley.edu/Course_IEOR160_Fall_2022.html)
     - Optimality conditions, convex optimization, numerical algorithms, integer programming.
@@ -73,9 +73,9 @@ nav_order: 6
     - Method of moments, MLE, linear regression, hypothesis testing, bootstrap.
 - STAT 151A, [Linear Modelling: Theory and Applications](https://stat151a.berkeley.edu/)
     - Data transformation, coefficient inference, ANOVA, model diagonistics, logistic regression.
-- STAT 153, [Introduction to Time Series](https://stat153.berkeley.edu/)
+- STAT 153, [Introduction to Time Series](/assets/pdf/course/timeseriessyllabus.pdf)
     - Stationarity, ARIMA model, Fourier transform, spectral density.
-- STAT 156, [Causal Inference](https://stat156.berkeley.edu/)
+- STAT 156, [Causal Inference](/assets/pdf/course/CausalInferenceSyllabus156.pdf)
     - Randomized experiments, unconfounded observational studies, sensitivity analysis, instrumental variables.
 - STAT 159, [Reproducible and Collaborative Statistical Data Science](https://stat159.berkeley.edu/)
     - Git, Conda, JupyterBook, Github pages.
