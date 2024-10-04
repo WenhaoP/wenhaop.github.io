@@ -88,7 +88,7 @@ nav_order: 6
 
 - STAT 559, [Measure Theory](https://stat.uw.edu/academics/course-catalog/stat-559)
     - Measures, measurable functions, Lebesgue integration, random variables, modes of convergence.
-- CFRM 550, [Stochastic Calculus for Quantitative Finance](assets\pdf\CFRM-550-syllabus-1.01.pdf) (In Progress)
+- CFRM 550, [Stochastic Calculus for Quantitative Finance](/assets/pdf/CFRM-550-syllabus-1.01.pdf) (In Progress)
     - Martingales, Brownian motion, stochastic calculus, stochastic differential equation.
 
 ##### UC Berkeley
@@ -105,6 +105,7 @@ nav_order: 6
     - Random variables, multivariate normals, central limit theorem, Markov chains, regression.
 - CS 70, [Discrete Mathematics and Probability Theory](https://www.eecs70.org/)
     - Modular arithemtic, graphs, RSA, counting, probability.
+
 ---
 
 ### Computer Programming
