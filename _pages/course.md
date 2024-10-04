@@ -26,7 +26,7 @@ nav_order: 6
     - Data cleaning, SQL, Pandas, visualization, PCA, clustering, ordinary least sqaures
 - DATA C102, [Data, Inference, and Decisions](https://data102.org/#:~:text=Data%20102:%20Data,%20Inference,%20and%20Decisions.%20UC%20Berkeley.)
     - Multiple testing, online FDR control, Bayesian modeling, generalized linear models.
-- CS 182, [Designing, Visualizing and Understanding Deep Neural Networks](https://cs182sp22.github.io/#:~:text=CS%20182%20/%20282A%20Spring%202022%20|%20CS)
+- CS 182, [Designing, Visualizing and Understanding Deep Neural Networks](https://cs182sp22.github.io/#:~:text=CS%20182%20/%20282A%20Spring%202022%20%20CS)
     - Fully connected neural networks, CNNs, RNNs, transformers, Generative models.
 - CS 188, [Introduction to Artificial Intelligence](https://www2.eecs.berkeley.edu/Courses/CS188/#:~:text=Spring:%203.0-3.0%20hours%20of%20lecture%20and%201.0-1.5%20hours)
     - Search algorithms, logic, Bayes net, Markov decision processes, reinforcement Learning.
@@ -37,12 +37,12 @@ nav_order: 6
 
 ### Optimization
 
-#### UC Berkeley
+##### UC Berkeley
 
 - EECS 127, [Optimization Models in Engineering](https://www2.eecs.berkeley.edu/Courses/EECS127/#:~:text=EECS%20127.%20Optimization%20Models%20in%20Engineering.%20Catalog%20Description:)
     - Matrix algebra, SVD, convex optimization, duality. 
 - IEOR 160, [Nonlinear and Discrete Optimization](https://lavaei.ieor.berkeley.edu/Course_IEOR160_Fall_2022.html)
-    - Optimality conditions, convex optimization, numerical algorithms, integer programming
+    - Optimality conditions, convex optimization, numerical algorithms, integer programming.
 - IEOR 162, [Linear Programming and Network Flows](https://lavaei.ieor.berkeley.edu/Course_IEOR162_Fall_2022.html)
     - Simplex method, optimality, duality, graph and network flow problems.
 
@@ -50,10 +50,10 @@ nav_order: 6
 
 ### Statistics 
 
-#### UW
+##### UW
 
 - STAT 502, [Design and Analysis of Experiments](https://stat.uw.edu/academics/course-catalog/stat-502)
-    - ANOVA, factorial treatment designs, block designs, split-plot designs
+    - ANOVA, factorial treatment designs, block designs, split-plot designs.
 - STAT 512, [Statistical Inference](https://stat.uw.edu/academics/course-catalog/stat-512)
     - Probability theory, maximum likelihood estimation, asymptotic theories.
 - STAT 513, [Statistical Inference](https://stat.uw.edu/academics/course-catalog/stat-513)
@@ -67,57 +67,66 @@ nav_order: 6
 - STAT 591, [Multiple testing and modern inference](/assets/pdf/STAT 591 B Au 23_ Special Topics In Statistics.pdf)
     - FWER control, FDR control, Benjamini-Hochberg procedure, Knockoffs.
 
-#### UC Berkeley
+##### UC Berkeley
 
-- STAT 135
-
-- STAT 151A
-
-- STAT 153
-
-- STAT 156
-
-- STAT 159
+- STAT 135, [Concepts of Statistics](https://stat135.berkeley.edu/)
+    - Method of moments, MLE, linear regression, hypothesis testing, bootstrap.
+- STAT 151A, [Linear Modelling: Theory and Applications](https://stat151a.berkeley.edu/)
+    - Data transformation, coefficient inference, ANOVA, model diagonistics, logistic regression.
+- STAT 153, [Introduction to Time Series](https://stat153.berkeley.edu/)
+    - Stationarity, ARIMA model, Fourier transform, spectral density.
+- STAT 156, [Causal Inference](https://stat156.berkeley.edu/)
+    - Randomized experiments, unconfounded observational studies, sensitivity analysis, instrumental variables.
+- STAT 159, [Reproducible and Collaborative Statistical Data Science](https://stat159.berkeley.edu/)
+    - Git, Conda, JupyterBook, Github pages.
 
 ---
 
 ### Mathematics
 
-#### UW
+##### UW
 
-- STAT 559
+- STAT 559, [Measure Theory](https://stat.uw.edu/academics/course-catalog/stat-559)
+    - Measures, measurable functions, Lebesgue integration, random variables, modes of convergence.
+- CFRM 550, [Stochastic Calculus for Quantitative Finance](assets\pdf\CFRM-550-syllabus-1.01.pdf) (In Progress)
+    - Martingales, Brownian motion, stochastic calculus, stochastic differential equation.
 
-- CFRM 550
+##### UC Berkeley
 
-#### UC Berkeley
-
-- MATH 53
-
-- MATH 54
-
-- MATH 104
-
-- MATH 110
-
-- DATA C140
-
+- MATH 53, [Multivariable Calculus](https://math.berkeley.edu/courses/overview/lowerdivcourses/math53)
+    - Partial derivatives, multiple integrals, vector calculus.
+- MATH 54, [Linear Algebra & Differential Equations](https://math.berkeley.edu/courses/overview/lowerdivcourses/math54)
+    - Basic linear algebra, vector space, eigenvalues, ordinary differential equations.
+- MATH 104, [Introduction to Analysis](https://classes.berkeley.edu/content/2021-summer-math-104-004-lec-004)
+    - Sequence, limits, metric space, continuity, series, Riemann integral.
+- MATH 110, [Abstract Linear Algebra](https://classes.berkeley.edu/content/2021-summer-math-110-004-lec-004)
+    - Matrices, QR factorization, inner product, Jordan canonical form.
+- DATA C140, [Probability for Data Science](http://prob140.org/)
+    - Random variables, multivariate normals, central limit theorem, Markov chains, regression.
+- CS 70, [Discrete Mathematics and Probability Theory](https://www.eecs70.org/)
+    - Modular arithemtic, graphs, RSA, counting, probability.
 ---
 
 ### Computer Programming
 
-#### UC Berkeley
+##### UC Berkeley
 
-- CS 61A
-
-- CS 61B
-
-- CS 61C
-
-- STAT 33B
+- EECS 16B, [Designing Information Devices and Systems II](https://eecs16b.org/)
+    - Circuits, control, SVD, PCA, linearization.
+- CS 61A, [Structure and Interpretation of Computer Programs](https://cs61a.org/)
+    - Python, Recursion, Scheme, SQL
+- CS 61B, [Data Structure](https://www2.eecs.berkeley.edu/Courses/CS61B/)
+    - Java, object-oriented programming, array, tree, queue, hashing, sorting, graph.
+- CS 61C, [Great Ideas in Computer Architecture (Machine Structures)](https://cs61c.org/fa24/?file=/lectures/pdf/lec01.pdf)
+    - C, memory management, RISC-V, parallelism, caches, virtual memory.
+- STAT 33B, [Introduction to Advanced Programming in R](https://stat33b.berkeley.edu/)
+    - R, ggplot, Tidyverse.
 
 ---
 
 ### Finance
+
+##### Coursera
 
 - [Financial Markets](https://www.coursera.org/learn/financial-markets-global?msockid=0f6e13fe5a24602017e7073e5b9e619d) (In Progress)
     - Basics of financial markets, behavioral finance, regulation, stocks, options, bond, investment banking.
