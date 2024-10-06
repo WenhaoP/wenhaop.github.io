@@ -52,32 +52,32 @@ nav_order: 6
 
 ##### UW
 
-- STAT 502, [Design and Analysis of Experiments](https://stat.uw.edu/academics/course-catalog/stat-502)
+- STAT 502, [Design and Analysis of Experiments](/assets/pdf/course/ST502_Syllabus_Fall2023.pdf)
     - ANOVA, factorial treatment designs, block designs, split-plot designs.
-- STAT 512, [Statistical Inference](https://stat.uw.edu/academics/course-catalog/stat-512)
+- STAT 512, [Statistical Inference](/assets/pdf/course/syllabus512.pdf)
     - Probability theory, maximum likelihood estimation, asymptotic theories.
-- STAT 513, [Statistical Inference](https://stat.uw.edu/academics/course-catalog/stat-513)
+- STAT 513, [Statistical Inference](/assets/pdf/course/STAT%20513%20Winter%202024.pdf)
     - Sufficient and complete statistics, UMVUE, hypothesis testing, decision theory.
-- STAT 516, [Stochastic Modeling of Scientific Data](https://stat.uw.edu/academics/course-catalog/stat-516)
+- STAT 516, [Stochastic Modeling of Scientific Data](/assets/pdf/course/STAT%20516%20-%20Syllabus_0.pdf)
     - Discrete-time Markov chain, Markov Chain Monte Carlo.
-- STAT 517, [Stochastic Modeling of Scientific Data](https://stat.uw.edu/academics/course-catalog/stat-517)
+- STAT 517, [Stochastic Modeling of Scientific Data](/assets/pdf/course/Syllabus%20for%20STAT%20517%20A%20Wi%2024_%20Stochastic%20Modeling%20Of%20Scientific%20Data.pdf)
     - Continuous-time Markov chains, Gaussian process, Gaussian Markov random fields, point process.
-- STAT 581, [Advanced Theory of Statistical Inference I](https://stat.uw.edu/academics/course-catalog/stat-581) (In Progress)
-- STAT 570, [Advanced Regression Methods for Independent Data](https://stat.uw.edu/academics/course-catalog/stat-570) (In Progress)
-- STAT 591, [Multiple testing and modern inference](/assets/pdf/STAT 591 B Au 23_ Special Topics In Statistics.pdf)
+- STAT 581, [Advanced Theory of Statistical Inference I](/assets/pdf/course/Syllabus-STAT-581%20-2024-uploaded.pdf) (In Progress)
+- STAT 570, [Advanced Regression Methods for Independent Data](/assets/pdf/course/Syllabus-Biost570.pdf) (In Progress)
+- STAT 591, [Multiple testing and modern inference](/assets/pdf/course/STAT%20591%20B%20Au%2023_%20Special%20Topics%20In%20Statistics.pdf)
     - FWER control, FDR control, Benjamini-Hochberg procedure, Knockoffs.
 
 ##### UC Berkeley
 
-- STAT 135, [Concepts of Statistics](https://stat135.berkeley.edu/)
+- STAT 135, [Concepts of Statistics](/assets/pdf/course/stat135Syallbus.pdf)
     - Method of moments, MLE, linear regression, hypothesis testing, bootstrap.
-- STAT 151A, [Linear Modelling: Theory and Applications](https://stat151a.berkeley.edu/)
+- STAT 151A, [Linear Modelling: Theory and Applications](/assets/pdf/course/stat151aSyllabus2021Fall.pdf)
     - Data transformation, coefficient inference, ANOVA, model diagonistics, logistic regression.
 - STAT 153, [Introduction to Time Series](/assets/pdf/course/timeseriessyllabus.pdf)
     - Stationarity, ARIMA model, Fourier transform, spectral density.
 - STAT 156, [Causal Inference](/assets/pdf/course/CausalInferenceSyllabus156.pdf)
     - Randomized experiments, unconfounded observational studies, sensitivity analysis, instrumental variables.
-- STAT 159, [Reproducible and Collaborative Statistical Data Science](https://stat159.berkeley.edu/)
+- STAT 159, [Reproducible and Collaborative Statistical Data Science](https://ucb-stat-159-s22.github.io/site/overview.html)
     - Git, Conda, JupyterBook, Github pages.
 
 ---
@@ -86,9 +86,9 @@ nav_order: 6
 
 ##### UW
 
-- STAT 559, [Measure Theory](https://stat.uw.edu/academics/course-catalog/stat-559)
+- STAT 559, [Measure Theory](/assets/pdf/course/stat559Syllabus.pdf)
     - Measures, measurable functions, Lebesgue integration, random variables, modes of convergence.
-- CFRM 550, [Stochastic Calculus for Quantitative Finance](/assets/pdf/CFRM-550-syllabus-1.01.pdf) (In Progress)
+- CFRM 550, [Stochastic Calculus for Quantitative Finance](/assets/pdf/course/CFRM-550-syllabus-1.01.pdf) (In Progress)
     - Martingales, Brownian motion, stochastic calculus, stochastic differential equation.
 
 ##### UC Berkeley
