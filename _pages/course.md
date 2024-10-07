@@ -64,7 +64,7 @@ nav_order: 6
     - Continuous-time Markov chains, Gaussian process, Gaussian Markov random fields, point process.
 - STAT 581, [Advanced Theory of Statistical Inference I](/assets/pdf/course/Syllabus-STAT-581%20-2024-uploaded.pdf) (In Progress)
 - STAT 570, [Advanced Regression Methods for Independent Data](/assets/pdf/course/Syllabus-Biost570.pdf) (In Progress)
-- STAT 591, [Multiple testing and modern inference](/assets/pdf/course/STAT%20591%20B%20Au%2023_%20Special%20Topics%20In%20Statistics.pdf)
+- STAT 591, [Multiple Testing and Modern Inference](/assets/pdf/course/STAT%20591%20B%20Au%2023_%20Special%20Topics%20In%20Statistics.pdf)
     - FWER control, FDR control, Benjamini-Hochberg procedure, Knockoffs.
 
 ##### UC Berkeley
@@ -116,7 +116,7 @@ nav_order: 6
     - Circuits, control, SVD, PCA, linearization.
 - CS 61A, [Structure and Interpretation of Computer Programs](https://cs61a.org/)
     - Python, Recursion, Scheme, SQL
-- CS 61B, [Data Structure](https://www2.eecs.berkeley.edu/Courses/CS61B/)
+- CS 61B, [Data Structures](https://www2.eecs.berkeley.edu/Courses/CS61B/)
     - Java, object-oriented programming, array, tree, queue, hashing, sorting, graph.
 - CS 61C, [Great Ideas in Computer Architecture (Machine Structures)](https://cs61c.org/fa24/?file=/lectures/pdf/lec01.pdf)
     - C, memory management, RISC-V, parallelism, caches, virtual memory.
