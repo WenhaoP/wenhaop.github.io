@@ -88,6 +88,7 @@ nav_order: 6
 
 - STAT 559, [Measure Theory](/assets/pdf/course/stat559Syllabus.pdf)
     - Measures, measurable functions, Lebesgue integration, random variables, modes of convergence.
+    - [My lecture notes](/assets/pdf/course/stat559notes.pdf).
 - CFRM 550, [Stochastic Calculus for Quantitative Finance](/assets/pdf/course/CFRM-550-syllabus-1.01.pdf) (In Progress)
     - Martingales, Brownian motion, stochastic calculus, stochastic differential equation.
 
