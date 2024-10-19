@@ -2,7 +2,7 @@
 layout: page
 title: Am I the Asshole?
 description: Hopefully not. 
-img: /assets/img/publication_review/reddit.png
+img: /assets/img/publication_preview/reddit.png
 importance: 2
 category: work
 related_publications: false
