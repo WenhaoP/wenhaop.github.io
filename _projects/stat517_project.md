@@ -3,7 +3,7 @@ layout: page
 title: Constructing Priors that Penalize the Complexity of Gaussian Random Fields
 description: A reproduction and simplification of the paper.
 img: /assets/img/Stationary-Gaussian-random-field-Gaussian-covariance-model.png
-importance: 2
+importance: 3
 category: work
 related_publications: false
 ---
