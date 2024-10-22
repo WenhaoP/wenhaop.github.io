@@ -22,4 +22,4 @@ I am a second-year PhD student in Statistics at the [University of Washington](h
 
 My research interests span statistical machine learning and optimization. I am deeply interested in developing methodologies and models that offer practical applications while maintaining strong theoretical guarantees. Lately, I have been particularly drawn to online and interactive learning algorithms, like bandit algorithms. Additionally, I am working on enhancing the causal validity of search engine experiments by integrating network interference into [performative prediction](https://arxiv.org/abs/2002.06673) framework with [Tyler McCormick](https://thmccormick.github.io/) and [Zaid Harchaoui](https://sites.google.com/uw.edu/zaid-harchaoui/).
 
-The photo on the right was taken by my friend Li at [West Lake](https://en.wikipedia.org/wiki/West_Lake) (西湖) in Hangzhou, China.
+The photo on the right was taken by my friend [Li](https://www.linkedin.com/in/li-tian-cal/) at [Lake Tapps Park](https://www.piercecountywa.gov/1326/North-Lake-Tapps-Park) in Bonney Lake, WA.
