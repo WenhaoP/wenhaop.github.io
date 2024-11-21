@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sequential Investment and Universal Portfolio Algorithms
-description: Let's get rich in stock market.
+description: Let's get rich in stock market II.
 img: /assets/img/stock.png
 importance: 1
 category: work
