@@ -62,8 +62,16 @@ nav_order: 6
     - Discrete-time Markov chain, Markov Chain Monte Carlo.
 - STAT 517, [Stochastic Modeling of Scientific Data](/assets/pdf/course/Syllabus%20for%20STAT%20517%20A%20Wi%2024_%20Stochastic%20Modeling%20Of%20Scientific%20Data.pdf)
     - Continuous-time Markov chains, Gaussian process, Gaussian Markov random fields, point process.
-- STAT 581, [Advanced Theory of Statistical Inference I](/assets/pdf/course/Syllabus-STAT-581%20-2024-uploaded.pdf) (In Progress)
-- STAT 570, [Advanced Regression Methods for Independent Data](/assets/pdf/course/Syllabus-Biost570.pdf) (In Progress)
+- STAT 581, [Advanced Theory of Statistical Inference I](/assets/pdf/course/Syllabus-STAT-581%20-2024-uploaded.pdf)
+    - Elementary (Bayesian) decision theory, modes of convergence, M-estimation, hypothesis testing under fixed and local alternatives, parametric efficiency
+- STAT 582, [Advanced Theory of Statistical Inference II](/assets/pdf/course/stat582-syllabus.pdf) 
+    - Minimax rates of convergence, kernel-based density estimation, concentration inequalities, entropy argument, empirical processes and weak convergence
+- STAT 583, [Advanced Theory of Statistical Inference III](/assets/pdf/course/stat583-syllabus.pdf) (In Progress)
+    - Weak convergence, Donsker class, U-statistics, asymptotic linearity and efficiency, influence function 
+- STAT 570, [Advanced Regression Methods for Independent Data](/assets/pdf/course/Syllabus-Biost570.pdf)
+    - Linear models, generalized linear models, non-linear models, sandwich estimators
+- STAT 571, [Advanced Regression Methods for Dependent Data](/assets/pdf/course/stat571-syllabus.pdf)
+    - Linear mxed models, generalized estimating equations, generalized linear mixed models, missing data, classical and multivariate analysis
 - STAT 591, [Multiple Testing and Modern Inference](/assets/pdf/course/STAT%20591%20B%20Au%2023_%20Special%20Topics%20In%20Statistics.pdf)
     - FWER control, FDR control, Benjamini-Hochberg procedure, Knockoffs.
 
@@ -89,7 +97,7 @@ nav_order: 6
 - STAT 559, [Measure Theory](/assets/pdf/course/stat559Syllabus.pdf)
     - Measures, measurable functions, Lebesgue integration, random variables, modes of convergence.
     - [My lecture notes](/assets/pdf/course/stat559notes.pdf).
-- CFRM 550, [Stochastic Calculus for Quantitative Finance](/assets/pdf/course/CFRM-550-syllabus-1.01.pdf) (In Progress)
+- CFRM 550, [Stochastic Calculus for Quantitative Finance](/assets/pdf/course/CFRM-550-syllabus-1.01.pdf)
     - Martingales, Brownian motion, stochastic calculus, stochastic differential equation.
 
 ##### UC Berkeley
