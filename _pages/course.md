@@ -66,7 +66,7 @@ nav_order: 6
     - Elementary (Bayesian) decision theory, modes of convergence, M-estimation, hypothesis testing under fixed and local alternatives, parametric efficiency
 - STAT 582, [Advanced Theory of Statistical Inference II](/assets/pdf/course/stat582-syllabus.pdf) 
     - Minimax rates of convergence, kernel-based density estimation, concentration inequalities, entropy argument, empirical processes and weak convergence
-- STAT 583, [Advanced Theory of Statistical Inference III](/assets/pdf/course/stat583-syllabus.pdf) (In Progress)
+- STAT 583, [Advanced Theory of Statistical Inference III](/assets/pdf/course/stat583-syllabus.pdf)
     - Weak convergence, Donsker class, U-statistics, asymptotic linearity and efficiency, influence function 
 - STAT 570, [Advanced Regression Methods for Independent Data](/assets/pdf/course/Syllabus-Biost570.pdf)
     - Linear models, generalized linear models, non-linear models, sandwich estimators
