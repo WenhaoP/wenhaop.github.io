@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-### (Statistical) Machine Learning
+### Machine Learning
 
 ##### UW
 
@@ -17,6 +17,8 @@ nav_order: 6
     - Multi-armed bandits, adversial bandits, linear bandits, contextual bandits.
 - CSE 547, [Machine Learning for Big Data](https://courses.cs.washington.edu/courses/cse547/24sp/#:~:text=William%20Howard-%20Snyder.%20Oscar%20Liu.%20Content.%20What%20is)
     - MapReduce, Spark, large-scale machine learning, recommendation systems, social networks.
+- CSE 517, [Natural Language Processing](https://minneker.github.io/nlp-26wi/) (In Progress)
+    - Text Classification, Language Modelling, LLMs.
 
 ##### UC Berkeley
 
@@ -66,7 +68,7 @@ nav_order: 6
     - Elementary (Bayesian) decision theory, modes of convergence, M-estimation, hypothesis testing under fixed and local alternatives, parametric efficiency
 - STAT 582, [Advanced Theory of Statistical Inference II](/assets/pdf/course/stat582-syllabus.pdf) 
     - Minimax rates of convergence, kernel-based density estimation, concentration inequalities, entropy argument, empirical processes and weak convergence
-- STAT 583, [Advanced Theory of Statistical Inference III](/assets/pdf/course/stat583-syllabus.pdf) (In Progress)
+- STAT 583, [Advanced Theory of Statistical Inference III](/assets/pdf/course/stat583-syllabus.pdf)
     - Weak convergence, Donsker class, U-statistics, asymptotic linearity and efficiency, influence function 
 - STAT 570, [Advanced Regression Methods for Independent Data](/assets/pdf/course/Syllabus-Biost570.pdf)
     - Linear models, generalized linear models, non-linear models, sandwich estimators
