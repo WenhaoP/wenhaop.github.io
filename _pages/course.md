@@ -129,7 +129,7 @@ nav_order: 6
     - Python, Recursion, Scheme, SQL
 - CS 61B, [Data Structures](https://www2.eecs.berkeley.edu/Courses/CS61B/)
     - Java, object-oriented programming, array, tree, queue, hashing, sorting, graph.
-- CS 61C, [Great Ideas in Computer Architecture (Machine Structures)](https://cs61c.org/fa24/?file=/lectures/pdf/lec01.pdf)
+- CS 61C, [Great Ideas in Computer Architecture (Machine Structures)](https://www2.eecs.berkeley.edu/Courses/CS61C/)
     - C, memory management, RISC-V, parallelism, caches, virtual memory.
 - STAT 33B, [Introduction to Advanced Programming in R](https://stat33b.berkeley.edu/)
     - R, ggplot, Tidyverse.
